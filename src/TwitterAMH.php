@@ -9,10 +9,10 @@ class TwitterAMH {
 
     protected $author = "Elhamdaoui Abdelmajid";
     public $settings = array(
-        'oauth_access_token' => "252549242-COIKLHvPXXswVu2DBI8yaxe1QNWVA19Dei23LMfi",
-        'oauth_access_token_secret' => "KM3P4T7RKpeiiYHcNKJvirxphtVy9J1QHHf355LuJLqdD",
-        'consumer_key' => "bmMKEz3SQyixlBcz5G7KAYQpW",
-        'consumer_secret' => "hFqyuRLyPTVgUq4Ffww6SkhTtBTLaywum8CfCLkXLUQr6Ckq36"
+        'oauth_access_token' => "",
+        'oauth_access_token_secret' => "",
+        'consumer_key' => "",
+        'consumer_secret' => ""
     );
 
     /** Twitter app* */
